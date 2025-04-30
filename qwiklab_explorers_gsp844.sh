@@ -111,10 +111,6 @@ echo
 
 
 
-# Display a random congratulatory message
-random_congrats
-
-echo -e "\n"  # Adding one blank line
 
 cd
 
