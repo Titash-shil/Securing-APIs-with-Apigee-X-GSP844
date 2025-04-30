@@ -17,6 +17,28 @@ sudo chmod +x qwiklab_explorers_gsp315.sh
 
 ./qwiklab_explorers_gsp315.sh
 ```
+---
+
+### 🛠️ **Proxy Configuration Details:**  
+
+|**Property**| **Value**       |  
+|:------------:|:-----------------:|  
+| Name       | bank-v1         |  
+| Base Path  | /bank/v1        |  
+| Target (API) | Backend URL   |  
+
+
+### 📥 **Download Required Files:**  
+
+- **bank-v1**: [⬇️ Download Here](https://drive.google.com/uc?export=download&id=1nciWY-FuXm9QrkoZy3vllHPCe5uGU7zS)
+
+
+### 🛠️ **Application Configuration Details:**  
+
+|**Property**  | **Value**               |  
+|:------------:|:-----------------------:|  
+| Name         | readonly-app            |  
+| Developer    | select joe@example.com  |
 
 ---
 
