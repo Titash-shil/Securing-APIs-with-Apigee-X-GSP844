@@ -28,7 +28,7 @@ sudo chmod +x qwiklab_explorers_gsp315.sh
 | Target (API) | Backend URL   |  
 
 
-### 📥 **Download Required Files:**  
+### ⚙️ **Download the below File:**  
 
 - **bank-v1**: [⬇️ Download Here](https://drive.google.com/uc?export=download&id=1nciWY-FuXm9QrkoZy3vllHPCe5uGU7zS)
 
